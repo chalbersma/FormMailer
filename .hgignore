@@ -1,5 +1,0 @@
-syntax: glob
-src/postninja/data.pyc
-src/postninja/gui.pyc
-src/postninja/staticdata.pyc
-src/postninja/xmloperations.pyc
