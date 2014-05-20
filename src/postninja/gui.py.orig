@@ -1,0 +1,100 @@
+from Tkinter import *
+
+class GUI:
+	def __init__(self,master):
+		
+		frame = Frame(master)
+		frame.pack()
+		
+		# Get the Name
+		
+		self.fnamelabel = Label(frame, text="First Name")
+		self.fnamelabel.pack()
+		self.fname = Entry(frame)
+		self.fname.pack()
+		
+		self.lnamelabel = Label(frame, text="Last Name")
+		self.lnamelabel.pack()
+		self.lname = Entry(frame)
+		self.lname.pack()
+		
+		self.minitlabel = Label(frame, text="Middle Initial")
+		self.minitlabel.pack()
+		self.minit = Entry(frame)
+		self.minit.pack()
+		
+		self.prefixlabel = Label(frame, text="Name Prefix")
+		self.prefixlabel.pack()
+		self.prefix = Entry(frame)
+		self.prefix.pack()
+		
+		#end of getting the name
+		
+		
+		#Get the Address
+		self.addressonelabel = Label(frame, text="Addr 1")
+		self.addressone = Entry(frame)
+		self.addressonelabel.pack()
+		self.addressone.pack()
+		
+		self.addresstwolabel = Label(frame, text="Addr2")
+		self.addresstwo = Entry(frame)
+		self.addresstwo.label.pack()
+		self.addresstwo.pack()
+		
+		self.citylabel = Label(frame, text="City")
+		self.city = Entry(frame)
+		self.citylabel.pack()
+		self.city.pack()
+		
+		self.statelabel = Label(frame, text = "State")
+		self.state = Entry(frame)
+		self.citylabel.pack()
+		self.statelabel.pack()
+		
+		self.zipcodelabel = Label(frame, text = "Zip")
+		self.zipcode = Entry(frame)
+		self.zipcodelabel.pack()
+		self.zipcode.pack()
+		
+		# End address
+		
+		# Start Map,Viol,Date
+		
+		self.mapcodelabel = Label(frame, text = "Map Code")
+		self.mapcode = Entry(frame)
+		self.mapcodelabel.pack()
+		self.mapcode.pack()
+		
+		self.violationlabel = Label(frame, text = "Violation Type")
+		self.violation = Entry(frame)
+		self.violationlabel.pack()
+		self.violation.pack()
+		
+		self.datelabel = Label(frame, text="Date"
+		self.date = Entry(frame)
+		self.datelabel.pack()
+		self.date.pack()
+		
+		
+		self.button = Button(frame, text="Create Letter", command=self.noplement)
+<<<<<<< local
+		self.button.pack(side=LEFT)
+
+=======
+		self.button.pack()
+>>>>>>> other
+		
+	def noplement(self):
+		print "This feature is not yet implemented"
+
+
+#	def file_menu():
+#		file_btn = Tkinter.Menubutton(menu_frame, text='File', underline=0)
+#		file_btn.pack(side=LEFT, padx="2px")
+#		file_btn.menu = Tkinter.Menu(file_btn)
+#		file_btn.menu.add_command(label="Open", underline=0, command=Open)
+#		file_btn.menu.add_command(label="Save", underline=0, command=Save)
+#		file_btn.menu.add_command(label="Quit", underline=0, command=Quit)
+#		file_btn['menu'] = file_btn.menu
+#		return file_btn

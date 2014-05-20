@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="test15.xsl"?>
+<officers>
+  <office>
+    <name_short>EA</name_short>
+    <name_long>Eminent Archon</name_long>
+    <current_person>Brock Lundak</current_person>
+    <email>BLundak.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>VP</name_short>
+    <name_long>Vice Archon</name_long>
+    <current_person>Steve Waldron</current_person>
+    <email>SWaldron.11@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>ER</name_short>
+    <name_long>Eminent Recorder</name_long>
+    <current_person>Ethan Griesemer</current_person>
+    <email>EGriesemer.11@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>TR</name_short>
+    <name_long>Treasurer</name_long>
+    <current_person>Greg Finger</current_person>
+    <email>GFinger.11@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>HM</name_short>
+    <name_long>House Manager</name_long>
+    <current_person>Matt Barker</current_person>
+    <email>MBarker.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>SC</name_short>
+    <name_long>Scholarship Chair</name_long>
+    <current_person>Ethan Porter</current_person>
+    <email>EPorter.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>ST</name_short>
+    <name_long>Steward</name_long>
+    <current_person>Tim Kuntz</current_person>
+    <email>TKuntz.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>RMs</name_short>
+    <name_long>Senior Risk Management Chair</name_long>
+    <current_person>Rob Thum</current_person>
+    <email>RThum.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>RMj</name_short>
+    <name_long>Junior Risk Management Chari</name_long>
+    <current_person>Clark Roberts</current_person>
+    <email>CRoberts.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>SC</name_short>
+    <name_long>Social Chair</name_long>
+    <current_person>Fernando Soto</current_person>
+    <email>FSoto.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>AC</name_short>
+    <name_long>Athletic Chair</name_long>
+    <current_person>Chris Johnson</current_person>
+    <email>CJohnson.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>CP</name_short>
+    <name_long>Chaplain</name_long>
+    <current_person>Chris Halbersma</current_person>
+    <email>CHalbersma.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>SL</name_short>
+    <name_long>Song Leader</name_long>
+    <current_person>Andrew Neiner</current_person>
+    <email>ANeiner.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>PEs</name_short>
+    <name_long>Senior Pledge Educator</name_long>
+    <current_person>Josh Bromberg</current_person>
+    <email>JBromberg.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>PEj</name_short>
+    <name_long>Junior Pledge Educator</name_long>
+    <current_person>Brandon McDaniel</current_person>
+    <email>BMcdaniel.11@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>EW</name_short>
+    <name_long>Eminent Warden</name_long>
+    <current_person>Jack Sheehan</current_person>
+    <email>JSheehan.11@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>PR</name_short>
+    <name_long>Preceptor /  Ritual </name_long>
+    <current_person>Daniel Grundl </current_person>
+    <email>DGrundl.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>AC</name_short>
+    <name_long>Alumni Chair</name_long>
+    <current_person>Chris Halbersma</current_person>
+    <email>chalbersma.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>PHs</name_short>
+    <name_long>Senior Philanthropy Chair</name_long>
+    <current_person>Chris Johnson</current_person>
+    <email>CJohnson.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>PHj</name_short>
+    <name_long>Junior Philanthropy Chari</name_long>
+    <current_person>Jack Sheehan</current_person>
+    <email>JSheehan.11@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>PC</name_short>
+    <name_long>Parents Committee</name_long>
+    <current_person>Josh Bromberg</current_person>
+    <email>JBromberg.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>RCs</name_short>
+    <name_long>Rush Committee Chair</name_long>
+    <current_person>Caleb Knott</current_person>
+    <email>CKnott.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>RCj</name_short>
+    <name_long>Junior Rush Committee</name_long>
+    <current_person>Clark Roberts</current_person>
+    <email>CRoberts.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>RC1</name_short>
+    <name_long>Rush Committee Member (1)</name_long>
+    <current_person>Joe Abraham</current_person>
+    <email>JAbraham.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>RC2</name_short>
+    <name_long>Rush Committee Member(2)</name_long>
+    <current_person>Andrew Neiner</current_person>
+    <email>ANeiner.13@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>IFs</name_short>
+    <name_long>Senior IFC Representative</name_long>
+    <current_person>Robert Thum</current_person>
+    <email>RThum.12@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>IFj</name_short>
+    <name_long>Junior IFC Representative</name_long>
+    <current_person>David Schatz</current_person>
+    <email>DSchatz.11@westminster-mo.edu</email>
+  </office>
+  <office>
+    <name_short>IT</name_short>
+    <name_long>Chief Technical Officer</name_long>
+    <current_person>Chris Halbersma</current_person>
+    <email>CHalbersma.12@westminster-mo.edu</email>
+  </office>
+</officers>

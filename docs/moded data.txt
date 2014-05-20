@@ -1,0 +1,16 @@
+What it's named		What is is in the Example	Notes
+FName	  		Leroy	      	  		
+MName			D
+LName			Benton
+Addr1			244 Bartley Ln.
+Addr2			#				Not In Example
+Town			Fulton
+State			MO
+Zip1			65251
+Zip2			#				Not In Example
+Loc_Code		049-13-10
+Violation		#				Not in Example Must be Included with Code
+Date_Init		#				Not in Example
+Date_Mailed		#				Tracking
+Date_Esc		#				Tracking
+Still_Active		#				Not in Example Bool

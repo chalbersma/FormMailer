@@ -1,0 +1,8 @@
+What it is		In Example		Notes
+Viol_Num		#  			Need to create
+Viol_SName		#			Violation Short Name
+Viol_Summary		LINE 12			Summary of Violation
+Viol_Expl		LINE 19			Explanation
+Viol_Length		LINE 20			Time allowed to come into compliance
+Viol_Legal		LINE 22			Text From Statute
+Viol_Extras		LINE 21			Any Warnings or Notes on the Violation

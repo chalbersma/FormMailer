@@ -1,0 +1,34 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+detect_indent_width=false
+
+[project]
+name=PostNinja
+base_path=C:\\Users\\halbersma\\Documents\\formmailer\\src\\postninja
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=0
+FILE_NAME_0=0;Python;0;16;1;1;0;/home/halbersma/projects/form-mailer/src/postninja/staticdata.py;0;4
+FILE_NAME_1=0;Python;0;16;1;1;0;/home/halbersma/projects/form-mailer/src/postninja/data.py;0;4
+
+[build-menu]
+EX_00_LB=_Execute
+EX_00_CM=c:\\python27\\python "%f"
+EX_00_WD=
+PythonFT_00_LB=_Compile
+PythonFT_00_CM=c:\\python27\\python -m py_compile "%f"
+PythonFT_00_WD=
+filetypes=Python;
+
+[VTE]
+last_dir=/home/halbersma/projects/form-mailer
